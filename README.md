@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dineshyaduv
+- 👋 Hi, I’m @Dineshkumar
 - 👀 I’m interested Data Science, AI / Machine Learning 
 - 🌱 I’m currently learning Data Science, AI / Machine Learning
 - 💞️ I’m looking to collaborate on ...
